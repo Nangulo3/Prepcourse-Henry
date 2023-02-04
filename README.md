@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Repositorio de prueba, modulo 2 prepcourse de Henry
+Nicolas Angulo Forero   
+Este proyecto es una prueba de como crear un repositoriop desde github y clonarlo a mi escritorio local.
